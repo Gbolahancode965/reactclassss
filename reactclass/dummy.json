@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "username": "ayo",
+      "email": "gisgood552@gmail.com",
+      "password": "Gbolahan1",
+      "id": "HGaZBNb_CoE"
+    },
+    {
+      "username": "ayo",
+      "email": "gisgood552@gmail.com",
+      "password": "Gbolahan1",
+      "id": "GkWQDcDvcF4"
+    },
+    {
+      "username": "gbolahan",
+      "email": "gisgood552@gmail.com",
+      "password": "Gbolahan1",
+      "id": "y3feh6xT16s"
+    },
+    {
+      "username": "gbolahan",
+      "email": "gisgood552@gmail.com",
+      "password": "Gbolahan1",
+      "id": "_sGXDI7D2O4"
+    },
+    {
+      "username": "Ayanfe",
+      "email": "gisgood52@gmail.com",
+      "password": "Gbolahan23",
+      "id": "NKP1ErXjBgs"
+    },
+    {
+      "username": "Faridat",
+      "email": "gisgood@gmail.com",
+      "password": "Gbolahan1",
+      "id": "nTjJcjjoVHI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
